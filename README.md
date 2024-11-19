@@ -18,6 +18,8 @@ Meu nome é Rodolfo Slva, sou programador Front End, atualmente estou aprendendo
 Estou iniciando em:
 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="type-script">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
+
 
 
 [![Rodolfo Stats](https://github-readme-stats.vercel.app/api?username=rodolfossilvadev)](https://github.com/anuraghazra/github-readme-stats)
