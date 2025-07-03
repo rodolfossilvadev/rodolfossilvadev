@@ -13,10 +13,6 @@ Meu nome é Rodolfo Slva, sou programador Front End, atualmente estou aprendendo
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
 <br>
-
-
-Estou iniciando em:
-
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="type-script">
 
 
