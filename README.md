@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Rodolfo Slva, sou programador Front End, atualmente estou aprendendo e criando projetos em:
+Sou Rodolfo Silva, desenvolvedor Front End apaixonado por criar experiências web interativas e visuais. Meu foco atual é aprimorar minhas habilidades em React e TypeScript. Abaixo estão alumas das tecnologias que utilizo:
 
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo">
@@ -14,6 +14,7 @@ Meu nome é Rodolfo Slva, sou programador Front End, atualmente estou aprendendo
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
 <br>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="type-script">
+<br> 
 
 
 
