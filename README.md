@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Sou Rodolfo Silva, desenvolvedor Front End apaixonado por criar experiências web interativas e visuais. Meu foco atual é aprimorar minhas habilidades em React e TypeScript. Abaixo estão alumas das tecnologias que utilizo:
+Sou Rodolfo Silva, desenvolvedor Front End apaixonado por criar experiências web interativas e visuais. Meu foco atual é aprimorar minhas habilidades em React e TypeScript.
+Abaixo estão alumas das tecnologias que utilizo:
 
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo">
