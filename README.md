@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou Rodolfo Silva, desenvolvedor Full Stack compormetido em criar experiências web interativas e visuais. Meu foco atual é aprimorar minhas habilidades em React e TypeScript.
+Sou Rodolfo Silva, desenvolvedor Full Stack comprometido em criar experiências web interativas e visuais. Meu foco atual é aprimorar minhas habilidades em React e TypeScript.
 <br>
 Tecnologias que utilizo:
 
