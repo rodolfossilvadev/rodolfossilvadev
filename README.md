@@ -31,7 +31,7 @@ Tecnologias que utilizo:
   Site oficial -> [DevFinance](https://devfinance-frontend.vercel.app/)
   
 - **Zion** — Site institucional com responsividade e identidade visual.  
-  👉 [Site oficial](https://www.zionjeans.store/)
+  👉 [Zion Jeans](https://www.zionjeans.store/)
 
 
 - **Pharmaderme** — SPA com React + Tailwind + Framer Motion (UI e performance).  
