@@ -18,8 +18,27 @@ Tecnologias que utilizo:
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="type-script">
 <br> 
 
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="tailwind">
+<img src="https://img.shields.io/badge/Framer%20Motion-111?style=for-the-badge&logo=framer&logoColor=white" alt="framer-motion">
 
+---
+
+### 🧩 Projetos em destaque
+
+- **DevFinance** — App simples de controle financeiro (foco em UX clara).  
+  👉 [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351678524048482308/)
+
+- **Zion** — Site institucional com responsividade e identidade visual.  
+  👉 [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7388745767051481088/)
+
+- **Pharmaderme** — SPA com React + Tailwind + Framer Motion (UI e performance).  
+  👉 [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7383646309628407808/)
+
+<!-- Quando tiver os repositórios públicos e/ou deploy (Vercel/Netlify), adicione aqui também os links do GitHub e da demo. -->
+
+---
 
 [![Rodolfo Stats](https://github-readme-stats.vercel.app/api?username=rodolfossilvadev)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfossilvadev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
