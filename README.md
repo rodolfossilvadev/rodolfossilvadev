@@ -26,17 +26,14 @@ Tecnologias que utilizo:
 ### 🧩 Projetos em destaque
 
 - **DevFinance** — App simples de controle financeiro (foco em UX clara).  
-  👉 [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351678524048482308/)
+  👉 (https://www.linkedin.com/feed/update/urn:li:activity:7351678524048482308/)
 
 - **Zion** — Site institucional com responsividade e identidade visual.  
-  👉 [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7388745767051481088/)
+  👉 (https://www.linkedin.com/feed/update/urn:li:activity:7388745767051481088/)
 
 - **Pharmaderme** — SPA com React + Tailwind + Framer Motion (UI e performance).  
-  👉 [Post no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7383646309628407808/)
+  👉 [(https://www.linkedin.com/feed/update/urn:li:activity:7383646309628407808/)
 
-<!-- Quando tiver os repositórios públicos e/ou deploy (Vercel/Netlify), adicione aqui também os links do GitHub e da demo. -->
-
----
 
 [![Rodolfo Stats](https://github-readme-stats.vercel.app/api?username=rodolfossilvadev)](https://github.com/anuraghazra/github-readme-stats)
 <br>
