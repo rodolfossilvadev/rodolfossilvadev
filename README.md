@@ -27,14 +27,17 @@ Tecnologias que utilizo:
 
 - **DevFinance** — App simples de controle financeiro (foco em UX clara).  
   👉 [Publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7351678524048482308/)
-  Site oficial -> [DevFinance] (https://devfinance-frontend.vercel.app/)
+  <br>
+  Site oficial -> [DevFinance](https://devfinance-frontend.vercel.app/)
   
 - **Zion** — Site institucional com responsividade e identidade visual.  
   👉 [Publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7388745767051481088/)
+    <br>
   Site oficial -> (https://www.zionjeans.store/)
 
 - **Pharmaderme** — SPA com React + Tailwind + Framer Motion (UI e performance).  
   👉 [Publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7383646309628407808/)
+    <br>
   Site oficial -> (https://www.pharmaderme.site/)
 
 
