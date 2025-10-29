@@ -32,7 +32,7 @@ Tecnologias que utilizo:
   👉 (https://www.linkedin.com/feed/update/urn:li:activity:7388745767051481088/)
 
 - **Pharmaderme** — SPA com React + Tailwind + Framer Motion (UI e performance).  
-  👉 [(https://www.linkedin.com/feed/update/urn:li:activity:7383646309628407808/)
+  👉 [Publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7383646309628407808/)
 
 
 [![Rodolfo Stats](https://github-readme-stats.vercel.app/api?username=rodolfossilvadev)](https://github.com/anuraghazra/github-readme-stats)
